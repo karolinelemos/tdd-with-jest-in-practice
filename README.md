@@ -1,9 +1,8 @@
 Exercises to practice TDD in JS functions using Jest
-`View: src/`
 
 - [x] Map
 - [x] Map recursive
-- [ ] Filter
+- [x] Filter
 - [ ] Filter recursive
 - [ ] Every
 - [ ] Every recursive
