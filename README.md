@@ -3,7 +3,7 @@ Exercises to practice TDD in JS functions using Jest
 - [x] Map
 - [x] Map recursive
 - [x] Filter
-- [ ] Filter recursive
+- [x] Filter recursive
 - [ ] Every
 - [ ] Every recursive
 - [ ] Some
