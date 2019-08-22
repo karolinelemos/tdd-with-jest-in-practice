@@ -9,7 +9,7 @@ Exercises to practice TDD in JS functions using Jest
 - [x] Some
 - [x] Some recursive
 - [x] Reverse 
-- [ ] Reverse recursive
+- [x] Reverse recursive
 - [ ] Reduce 
 - [ ] Reduce recursive
 - [ ] ReduceRight 
